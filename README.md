@@ -92,6 +92,6 @@ php flarum cache:clear
 
 This language pack is part of [Flarum translations collective](https://github.com/rob006-software/flarum-translations).
 
-Translation for Day.js comes from the [source](https://github.com/iamkun/dayjs/blob/v1.10.4/src/locale/pa.js).
+Translation for Day.js comes from the [source](https://github.com/iamkun/dayjs/blob/v1.11.23/src/locale/pa-in.js).
 
 Translation for `validation.yml` is based on [Laravel translations](https://github.com/Laravel-Lang/lang/blob/8.1.3/src/pa/validation.php).
