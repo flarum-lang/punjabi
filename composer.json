@@ -1,26 +1,20 @@
 {
 	"name": "flarum-lang/punjabi",
+	"description": "Punjabi Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Punjabi language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/punjabi",
 	"keywords": [
-		"locale",
-		"flarum",
-		"flarum-locale",
-		"pa-locale",
-		"punjabi-locale",
-		"punjabi"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/punjabi",
 	"license": "MIT",
 	"support": {
 		"issues": "https://github.com/flarum-lang/punjabi/issues",
+		"forum": "https://discuss.flarum.org/d/40208",
 		"source": "https://github.com/flarum-lang/punjabi"
 	},
 	"require": {
 		"flarum/core": "^2.0"
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
 			"title": "Punjabi",
@@ -33,13 +27,7 @@
 		},
 		"flarum-locale": {
 			"code": "pa",
-			"title": "Punjabi"
-		},
-		"extiverse": {
-			"discuss": ""
-		},
-		"branch-alias": {
-			"dev-master": "1.x-dev"
+			"title": "ਪੰਜਾਬੀ"
 		}
 	}
 }
